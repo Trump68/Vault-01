@@ -1,6 +1,6 @@
 {
-  "remoteURL": "git@github.com:Trump68/Vault-01.git",
-  "gitLocation": "c:\\Obsidian\\Vault 01\\",
+  "remoteURL": "https://github.com/Trump68/Vault-01.git",
+  "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": true,
   "checkStatusOnLoad": true
