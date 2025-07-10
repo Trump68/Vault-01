@@ -1,0 +1,461 @@
+{
+  "main": {
+    "id": "02d8fe86047eb0c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8daa673f50ae5986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed612dd56623f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лайфхаки/Lifehack-Сохранение Предыдущего Кода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lifehack-Сохранение Предыдущего Кода"
+            }
+          },
+          {
+            "id": "24c75183bd80dfde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разработка ПО/Разработка программного обеспечения.  Порядок выполнения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разработка программного обеспечения.  Порядок выполнения"
+            }
+          },
+          {
+            "id": "d558f43741c60482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лайфхаки/Lifehack-Сохранение Предыдущего Кода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lifehack-Сохранение Предыдущего Кода"
+            }
+          },
+          {
+            "id": "b8488668786a037a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/План обучения системного архитектора по теме Large Language Models (LLM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "План обучения системного архитектора по теме Large Language Models (LLM)"
+            }
+          },
+          {
+            "id": "7dc4b8aa7b15638d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Неделя 1- Введение в Large Language Models (LLM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Неделя 1- Введение в Large Language Models (LLM)"
+            }
+          },
+          {
+            "id": "dd363e49700e91a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Неделя 1 День 3- Принципы обучения и генерации текста.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Неделя 1 День 3- Принципы обучения и генерации текста"
+            }
+          },
+          {
+            "id": "8bf7f7d302255c44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Embedding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Embedding"
+            }
+          },
+          {
+            "id": "355b61fcd77fd67b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Latent Space (embedding space).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Latent Space (embedding space)"
+            }
+          },
+          {
+            "id": "1321ee040694d641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лайфхаки/Lifehack-Сохранение Предыдущего Кода.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lifehack-Сохранение Предыдущего Кода"
+            }
+          },
+          {
+            "id": "9143628f5548bd39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лайфхаки/Промпт-техника ~Язык Мысли~(Language of Thoughts, LoT).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Промпт-техника ~Язык Мысли~(Language of Thoughts, LoT)"
+            }
+          },
+          {
+            "id": "6b1b0b43214854ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разработка ПО/Разработка программного обеспечения.  Порядок выполнения.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Разработка программного обеспечения.  Порядок выполнения"
+            }
+          },
+          {
+            "id": "60ab1129566921a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лайфхаки/SSH commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SSH commands"
+            }
+          },
+          {
+            "id": "05897403e47c49cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение LLM/Программа изучения LLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Программа изучения LLM"
+            }
+          },
+          {
+            "id": "4dbcc2a3904f8a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Обучение LLM/Программа изучения LLM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Программа изучения LLM"
+            }
+          },
+          {
+            "id": "2801a918af4b7b19",
+            "type": "leaf",
+            "state": {
+              "type": "big-calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Big Calendar"
+            }
+          },
+          {
+            "id": "7e1adc7aadcb3d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calendar/2025-07-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-10"
+            }
+          }
+        ],
+        "currentTab": 15
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bdf21421fd86da2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6f2ab364778bb89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe42f7d52e510b1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a72af46ff431e41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a24dd8f9fe13af15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92dd5dcb6a67618f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f27c2a1cbb66580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "005ede345ce31c22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Разработка ПО/Проектирование архитектуры  программного обеспечения.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Проектирование архитектуры  программного обеспечения"
+            }
+          },
+          {
+            "id": "41300bc4d5ea03fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Разработка ПО/Проектирование архитектуры  программного обеспечения.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Проектирование архитектуры  программного обеспечения"
+            }
+          },
+          {
+            "id": "92ed138d52264fb3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "44e5823339ad4b75",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Calendar/2025-07-10.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-07-10"
+            }
+          },
+          {
+            "id": "99ef85ab46495308",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "b0ae21821a95514c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ddb1163ce387b301",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 645.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "big-calendar:Big Calendar": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "7e1adc7aadcb3d23",
+  "lastOpenFiles": [
+    "Calendar/2025-07-10.md",
+    "Обучение Системный Архитектор",
+    "Обучение LLM/Позиционная информация.md",
+    "Обучение LLM",
+    "Обучение LLM/Программа изучения LLM.md",
+    "Лайфхаки/SSH commands.md",
+    "АССОАУ-настройка ФП РВ.md",
+    "Обучение Системный Архитектор/Программа системного архитектора.md",
+    "Разработка ПО/Разработка программного обеспечения.  Порядок выполнения.md",
+    "Разработка ПО/Проектирование архитектуры  программного обеспечения.md",
+    "Calendar/2025-07-04.md",
+    "AI/Книги по ИИ - Machine Learning Q and AI.md",
+    "Лайфхаки/Промпт-техника ~Язык Мысли~(Language of Thoughts, LoT).md",
+    "Лайфхаки/Lifehack-Сохранение Предыдущего Кода.md",
+    "AI/ImageNet Classification with Deep Convolutional Neural Networks.md",
+    "AI/files/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Supplemental.zip",
+    "files/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf",
+    "files",
+    "AI/Representation.md",
+    "AI/Latent Space (embedding space).md",
+    "AI/Embedding.md",
+    "AI/files/Pasted image 20250701104340.png",
+    "AI/files/Pasted image 20250701095713.png",
+    "AI/files/Pasted image 20250701095649.png",
+    "AI/files/Pasted image 20250701095635.png",
+    "AI/files",
+    "AI/Неделя 1 День 3- Принципы обучения и генерации текста.md",
+    "AI/Неделя 1- Введение в Large Language Models (LLM).md",
+    "AI/План обучения системного архитектора по теме Large Language Models (LLM).md",
+    "AI",
+    "Лайфхаки",
+    "Разработка ПО/files/732-10pr.pdf",
+    "Разработка ПО/files/732-06pr.pdf",
+    "Calendar/2025-06-24.md",
+    "Folder 02/Note 02.md",
+    "Calendar/2025-06-06.md",
+    "Folder 01/Note 01.md",
+    "Отдел/ДР.md",
+    "Calendar/2025-06-20.md",
+    "Calendar1/2025-06-20.md"
+  ]
+}

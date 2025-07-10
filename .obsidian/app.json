@@ -1,0 +1,10 @@
+{
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Draft",
+  "attachmentFolderPath": "./files"
+}
